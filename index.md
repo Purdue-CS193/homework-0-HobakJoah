@@ -7,6 +7,8 @@
 - No exams
 
 ```
+- hello world
+- hi there
 testing markdown things
 WOW
 I like Purdue
