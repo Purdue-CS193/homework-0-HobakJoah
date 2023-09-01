@@ -6,12 +6,12 @@
 - The TAs are cool
 - No exams
 
-'''
+```
 testing markdown things
 WOW
 I like Purdue
 Hail Purdue
-'''
+```
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files. I have made the changes to the website. !!!!
 
